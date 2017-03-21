@@ -11,3 +11,5 @@ from sklearn import svm
 #Loading the prediction/train data as pred/train
 pred = pd.read_csv('path/prediction.csv')
 train = pd.read_csv('path/train.csv')
+
+#
